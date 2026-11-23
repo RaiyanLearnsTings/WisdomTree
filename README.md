@@ -38,10 +38,10 @@ Humanities: Geography + Culture + Language + Arts/Lit + Global Events + History
 - MSE
 
 **Tech**
-- Fund Prog (python)
-- intermediate
+- Prog Funds ->  intermediate
 - DSA
 - Robotics
 - ML
 - Data Analysis / Visualization
+
 
